@@ -1,5 +1,5 @@
 # CountUp
-#Author
+# Author
 chenzhaoguang 20190801 commit
 trao-countUp react-countUp vue-countUp anguler-countUp
 # CountUp.js
